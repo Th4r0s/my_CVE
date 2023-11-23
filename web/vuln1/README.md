@@ -1,6 +1,6 @@
 # vulnerability music store website
 
-![](/docs/vuln_website.png)
+![](https://raw.githubusercontent.com/Th4r0s/my_CVE/main/web/vuln1/docs/vuln_website.png)
 
 ## description
 
