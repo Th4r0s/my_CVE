@@ -1,4 +1,4 @@
-# vulnerability music store website
+# Vulnerability music store website
 
 ![](https://raw.githubusercontent.com/Th4r0s/my_CVE/main/web/vuln1/docs/vuln_website.png)
 ![](https://raw.githubusercontent.com/Th4r0s/my_CVE/main/web/vuln1/docs/xss-triggered.png)
@@ -28,7 +28,7 @@ Accept-Encoding: gzip, deflate, br
 Accept-Language: en-US,en;q=0.9
 Priority: u=0, i
 ```
-## Description01:
+## Description:
 
 JavaScript can be injected into the application (a vulnerable app - register.php, no sanitizing emsg GET parameter).
 
